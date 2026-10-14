@@ -1,8 +1,200 @@
 {
   "schemaVersion": 1,
-  "consoleVersion": "main@cbf003e5e2c2",
+  "consoleVersion": "main@12169d80e269",
   "shots": {
+    "admin-audit": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-deletions": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identities": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identity-detail": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identity-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identity-provider-discovery": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identity-provider-domains": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identity-provider-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identity-provider-settings": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identity-provider-tenants": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-identity-providers": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-role-detail": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-roles": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-settings-token-masks": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-settings": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tenant-basic": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tenant-delete-confirm": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tenant-deletion": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tenant-effective": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tenant-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tenant-settings": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
     "admin-tenants": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tier-basic": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tier-settings": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "admin-tiers": {
       "locales": [
         "en",
         "es"
@@ -267,6 +459,46 @@
       "height": 1800
     },
     "customers-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dash-dark": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dash-kiosk": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dash-load": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dash-signin": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dash-view": {
       "locales": [
         "en",
         "es"
@@ -576,7 +808,7 @@
         "es"
       ],
       "width": 2880,
-      "height": 1800
+      "height": 2240
     },
     "profile-command-new": {
       "locales": [
