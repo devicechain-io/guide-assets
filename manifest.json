@@ -1,1 +1,822 @@
-{"schemaVersion":1,"consoleVersion":"none","shots":{}}
+{
+  "schemaVersion": 1,
+  "consoleVersion": "main@cbf003e5e2c2",
+  "shots": {
+    "admin-tenants": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "alarms-acknowledged": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "alarms-filter": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "alarms-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "area-detail-facets": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "area-types-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "areas-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "asset-detail-basic": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "asset-detail-devices": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "asset-detail-hierarchy": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "asset-type-properties": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "asset-type-versions": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "assets-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "assets-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "audit-filter": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "audit-journal": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "batch-cancel-confirm": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "batch-detail-cancelled": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "batch-detail-completed": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "batch-detail-refusals": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "batches-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "batches-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "browse-filter": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "browse-save-group": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "connector-config": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "connector-versions": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "connectors-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "connectors-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "console-area-unavailable": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "console-home": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "console-sidebar": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 512,
+      "height": 1800
+    },
+    "console-tenant-chip": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 258,
+      "height": 86
+    },
+    "customer-detail-facets": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "customers-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-add-widget": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-edit": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-export": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-history": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-preview": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-view": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-widget-config": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboards-import": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboards-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboards-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-commands-parameter-form": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-configuration-copy": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-configuration-restore": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-credentials-shown-once": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-assignment": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-basic": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-commands": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-configuration": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-connectivity": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-credentials": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-events": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-facets": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-detail-replacement": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-groups-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-type-appearance": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-type-identity": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "device-type-profile": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "devices-bulk": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "devices-export-csv": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "devices-import": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "devices-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "devices-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "facets-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "facets-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "geofence-detail": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "geofence-history": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "geofences-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "geofences-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "profile-command-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "profile-commands": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "profile-configuration": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "profile-metrics": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "profile-version-publish": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "profile-version-rollback": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "profile-versions": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "rule-canvas": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "rule-describe": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "rule-form-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "rule-health": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "rule-replay-preview": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "rules-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "settings-basemap": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "settings-branding": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "settings-locale": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "signin-identify": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "signin-password": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "signin-session-expired": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-artifact-new": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-artifact-signatures": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-artifact-signed": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-artifact-unverified": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-artifacts-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-device-tab": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-signer-register": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-signer-revoke": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "updates-signers-list": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "user-menu": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "user-profile-drawer": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    }
+  }
+}
