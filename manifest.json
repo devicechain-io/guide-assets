@@ -514,6 +514,14 @@
       "width": 2880,
       "height": 1800
     },
+    "dashboard-bar-pie": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
     "dashboard-edit": {
       "locales": [
         "en",
@@ -530,6 +538,22 @@
       "width": 2880,
       "height": 1800
     },
+    "dashboard-fleet-table": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-gauges": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
     "dashboard-history": {
       "locales": [
         "en",
@@ -539,6 +563,14 @@
       "height": 1800
     },
     "dashboard-preview": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "dashboard-stat-cards": {
       "locales": [
         "en",
         "es"
