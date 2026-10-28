@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "consoleVersion": "main@12169d80e269",
+  "consoleVersion": "main@9f84c9f70986",
   "shots": {
     "admin-audit": {
       "locales": [
@@ -842,6 +842,14 @@
       "width": 2880,
       "height": 2240
     },
+    "integration-detail": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
     "profile-command-new": {
       "locales": [
         "en",
@@ -987,6 +995,14 @@
       "height": 1800
     },
     "signin-session-expired": {
+      "locales": [
+        "en",
+        "es"
+      ],
+      "width": 2880,
+      "height": 1800
+    },
+    "trust-anchors-list": {
       "locales": [
         "en",
         "es"
